@@ -13,7 +13,7 @@ export const Menu = () => {
                 <Link to='/counter'>Counter ◔_◔ </Link>
             </li>
             <li>
-                <Link to='/art'>Art ⊙︿⊙ </Link>
+                <Link to='/art'>Art ʕ•ᴥ•ʔ </Link>
             </li>
         </ul>
 
